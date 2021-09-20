@@ -22,7 +22,7 @@ Vue2、Vue-router、Vuex、Vue-Cli4、Mint-UI、axios、mockjs、better-scroll�
 
 ### 二、项目截图
 
-![主页](./images/home.png)![搜索](./images/search.png)![](./images/order.png)![](./images/profile.png)![](./images/login_phone.png)![](./images/login_pwd.png)![](./images/shop_menu.png)![](./images/shop_comment.png)![](./images/shop_info.png)
+![主页](./images/home.png)![搜索页面](./images/search.png)![订单页面](./images/order.png)![个人中心页](./images/profile.png)![登录页面(手机验证码登录)](./images/login_phone.png)![登录页面(密码登录)](./images/login_pwd.png)![商家页面(菜单)](./images/shop_menu.png)![商家页面(评论)](./images/shop_comment.png)![商家页面(商家信息)](./images/shop_info.png)
 
 ### 三、项目运行
 
