@@ -2,6 +2,10 @@
 
 ### 一、项目介绍
 
+**1.描述**
+
+​        此项目为一个前后端分离的外卖 Web App (SPA) 项目，包括商家, 商品, 购物车, 用户等多个功能子模块，使用Vue前端MVVM框架开发，采用模块化、组件化、工程化的模式开发。
+
 **1.技术栈**
 
 Vue2、Vue-router、Vuex、Vue-Cli4、Mint-UI、axios、mockjs、better-scroll等
